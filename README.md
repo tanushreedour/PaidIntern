@@ -7,11 +7,14 @@ This project is a web application built using the Streamlit framework to scrape 
 ## Project Structure:
 
 `main.py` : The main Streamlit application which contains web scraping logic as well.
+
 `requirements.txt` : List the python dependencies for the project.
 
 ## Dependencies
 `Streamlit`: For building the web interface.
+
 `BeautifulSoup`: For scraping HTML data from Practo.
+
 `Requests`: For making HTTP requests to Practo.
 
 ## Features:
@@ -32,5 +35,5 @@ This project is a web application built using the Streamlit framework to scrape 
   pipenv install -r requirements.txt
 
 ## Run the Application:
-
+```bash
 streamlit run main.py
