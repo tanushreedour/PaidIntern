@@ -2,6 +2,9 @@
 
 This project is a web application built using the Streamlit framework to scrape and display the number of doctors available on [Practo.com](https://www.practo.com) based on user input. The user can enter a location and choose a doctor specialization from a dropdown menu. Upon clicking the search button, the application scrapes the Practo website and returns the number of doctors available for the specified location and specialization.
 
+You can check the website here: https://practo-web-scraping.streamlit.app/
+
+
 ![image](https://github.com/user-attachments/assets/cb106e22-d330-405d-8d87-d663874314c6)
 
 ## Project Structure:
